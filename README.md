@@ -6,6 +6,11 @@ BlueBubbles is an open-source, cross-platform ecosystem of apps that brings iMes
 
 ---
 
+## This is my own fork of blue bubbles with the following changes.
+
+- Added 2FA codes being copied to clipboard setting
+- Disabled update check
+
 ## Features
 
 ### Core Messaging
